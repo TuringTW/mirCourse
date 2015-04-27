@@ -1,3 +1,11 @@
+*.wav
+*.mp3
+*.zip
+*.mid
+*.pv
+*.htm
+
+#==============================
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
